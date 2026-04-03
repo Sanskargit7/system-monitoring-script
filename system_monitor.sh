@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Simple thresholds
-DISK_THRESHOLD=80
-MEM_THRESHOLD=80
+DISK_THRESHOLD=5
+MEM_THRESHOLD=5
 
 echo "===== System Monitor ====="
 
